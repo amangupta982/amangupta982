@@ -2,7 +2,7 @@
 B.Tech CSE (Data Science) student  at Jain University, graduating in 2027. Skilled in Python,<br>Java, C++, Android development, and big data technologies. Hands-on experience through internships in Data<br>Science and Android App Development, building projects in ML, AI, and real-time systems. Passionate about<br>creating impactful solutions such as a sign language translator, mental health predictor, demistifying the legal<br>document and AI-driven road detection. Strong balance of academic excellence, technical expertise, and practical<br>problem-solving.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-gupta-b617772a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanmacair98@gmail.com) 
 
 # 💻 Tech Stack:
