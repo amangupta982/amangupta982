@@ -84,26 +84,6 @@ class AmanGupta:
 
 ---
 
-## 💼 Work Experience
-
-**🔬 Data Science Intern — RD-Infro-Technology** `Jan – Mar 2025`
-
-> Built ML models (anomaly detection, regression, classification, time-series) in Python & Google Colab.
-> Projects: Fraud Detection · Movie Ratings Predictor · Sales Forecasting · Titanic Survival Analysis.
-> 
-> 📂 [View Internship Repo](https://github.com/amangupta982/RD-INFRO-TECHNOLOGY)
-
----
-
-**📱 Android App Developer — CodSoft** `Jun – Jul 2025`
-
-> Built Android apps in Java using Android Studio with focus on UI/UX and performance.
-> Delivered: Quiz App (categories + scoring) and a To-Do List App with smooth navigation.
->
-> 📂 [View Quiz App](https://github.com/amangupta982/Quiz-App.git)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -127,34 +107,9 @@ class AmanGupta:
 
 ---
 
-## 🏅 Certifications
-
-| Certificate | Issuer |
-|---|---|
-| 🏆 Data Visualization Workshop — Power BI | Workshop |
-| 🏆 Selected — Internal Hackathon SIH 2025 | Smart India Hackathon |
-| 📜 Introduction to Operating Systems | Coursera |
-| 📜 Algorithms for Searching, Sorting, Indexing | Coursera |
-| 📜 Data Science 101 | IBM SkillsBuild |
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Score | Year |
-|---|---|---|---|
-| B.Tech CSE (Data Science) | Jain University, Bengaluru | **SGPA: 9.6** | 2023 – 2027 |
-| 12th — CBSE | DAV RB Kedia Higher Secondary School | 78% | 2023 |
-| 10th — NEB | Gautam Secondary School | 92% | 2021 |
-
----
-
 <div align="center">
 
-### ✍️ Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=amangupta982&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
