@@ -1,21 +1,161 @@
-# 💫 About Me:
-B.Tech CSE (Data Science) student  at Jain University, graduating in 2027. Skilled in Python,<br>Java, C++, Android development, and big data technologies. Hands-on experience through internships in Data<br>Science and Android App Development, building projects in ML, AI, and real-time systems. Passionate about<br>creating impactful solutions such as a sign language translator, mental health predictor, demistifying the legal<br>document and AI-driven road detection. Strong balance of academic excellence, technical expertise, and practical<br>problem-solving.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AMAN%20GUPTA&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20%E2%80%94%20Data%20Science%20%7C%20AI%20%2F%20ML%20%7C%20Android&descAlignY=54&descSize=18" />
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-gupta-b617772a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanmacair98@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amangupta982&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amangupta982&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta982&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://amangupta982.github.io/Protfolio/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-0f0f0f?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/aman-gupta-b617772a6">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:amanmacair98@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/amangupta092/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Real-Time+ML+Systems+🚀;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Data+Science+%40+Jain+University+%7C+SGPA+9.6;Turning+Data+into+Decisions+⚡" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amangupta982&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+```python
+class AmanGupta:
+    degree    = "B.Tech CSE (Data Science) — Jain University (2023–2027)"
+    sgpa      = 9.6
+    location  = "Bengaluru, India"
+    interests = ["Machine Learning", "Computer Vision", "NLP", "Android Dev"]
+    currently = ["Sign Language Translator (95% acc)", "AI Road Detection System"]
+    ask_me    = ["Python", "TensorFlow", "PyTorch", "Data Science", "OpenCV"]
+    fun_fact  = "I build things that see, understand, and translate the world 🌍"
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**AI / ML / Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Big Data & Cloud**
+
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+**🔬 Data Science Intern — RD-Infro-Technology** `Jan – Mar 2025`
+
+> Built ML models (anomaly detection, regression, classification, time-series) in Python & Google Colab.
+> Projects: Fraud Detection · Movie Ratings Predictor · Sales Forecasting · Titanic Survival Analysis.
+> 
+> 📂 [View Internship Repo](https://github.com/amangupta982/RD-INFRO-TECHNOLOGY)
+
+---
+
+**📱 Android App Developer — CodSoft** `Jun – Jul 2025`
+
+> Built Android apps in Java using Android Studio with focus on UI/UX and performance.
+> Delivered: Quiz App (categories + scoring) and a To-Do List App with smooth navigation.
+>
+> 📂 [View Quiz App](https://github.com/amangupta982/Quiz-App.git)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amangupta982&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false" height="160"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=amangupta982&theme=tokyonight&hide_border=true" height="160"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta982&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta982&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Issuer |
+|---|---|
+| 🏆 Data Visualization Workshop — Power BI | Workshop |
+| 🏆 Selected — Internal Hackathon SIH 2025 | Smart India Hackathon |
+| 📜 Introduction to Operating Systems | Coursera |
+| 📜 Algorithms for Searching, Sorting, Indexing | Coursera |
+| 📜 Data Science 101 | IBM SkillsBuild |
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Score | Year |
+|---|---|---|---|
+| B.Tech CSE (Data Science) | Jain University, Bengaluru | **SGPA: 9.6** | 2023 – 2027 |
+| 12th — CBSE | DAV RB Kedia Higher Secondary School | 78% | 2023 |
+| 10th — NEB | Gautam Secondary School | 92% | 2021 |
+
+---
+
+<div align="center">
+
+### ✍️ Dev Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
