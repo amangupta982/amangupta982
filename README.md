@@ -55,7 +55,7 @@ class AmanGupta:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch,sklearn,opencv,flask,mysql,mongodb,sqlite,git,github,androidstudio,gcp&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,sklearn,flask,mysql,mongodb,git&perline=9" />
 
 </div>
 
@@ -67,7 +67,7 @@ class AmanGupta:
 
 <img src="https://github-readme-stats.vercel.app/api?username=amangupta982&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=amangupta982&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amangupta982&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/><br/>
 
@@ -81,7 +81,7 @@ class AmanGupta:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amangupta982&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=amangupta982&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
 
 </div>
 
