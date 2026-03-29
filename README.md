@@ -36,14 +36,12 @@
 
 ### 🔥 What I've Built
 
-| Project | Description | Stack |
-|---|---|---|
-| 🌿 [Eco-Commit-AI](https://github.com/amangupta982/Eco-Commit-AI) | AI carbon footprint tracker — log habits, get real-time CO₂ savings & sustainability insights | Python, Flask, ML |
-| 🧠 [Clinical-Summarizer-AI](https://github.com/amangupta982/Clinical-Summarizer-AI) | Multimodal clinical decision-support tool — synthesizes notes & vitals using NLP | Python, NLP, ML |
-| 🗺️ [smart-route-navigator](https://github.com/amangupta982/smart-route-navigator) | Adaptive city graph engine — Dijkstra, A*, Yen's K-Shortest Paths, BFS | Java, Spring Boot, DSA |
-| 🌐 [Multilingual-AI-Translator](https://github.com/amangupta982/Multilingual-AI-Translator) | Nepali & Sinhala ↔ English image/PDF translator with 35% faster inference | PyTorch, HuggingFace, OCR |
-| ⚖️ [Generative-AI-Legal-Docs](https://github.com/amangupta982/Generative-AI-for-Legal-Docs) | LLM + OCR clause extraction, risk highlighting & compliance checker | Python, Transformers, Flask |
-| 🔤 [nlp-toolkit](https://github.com/amangupta982/nlp-toolkit) | NLP fundamentals to projects: NER, POS tagging, text classification & more | Python, NLTK, spaCy |
+- 🌿 **[Eco-Commit-AI](https://github.com/amangupta982/Eco-Commit-AI)** — AI carbon footprint tracker, log habits & get real-time CO₂ savings with sustainability insights `Python · Flask · ML`
+- 🧠 **[Clinical-Summarizer-AI](https://github.com/amangupta982/Clinical-Summarizer-AI)** — Multimodal clinical decision-support tool, synthesizes physician notes & vitals using NLP `Python · NLP · ML`
+- 🗺️ **[smart-route-navigator](https://github.com/amangupta982/smart-route-navigator)** — Adaptive city graph engine with Dijkstra, A*, Yen's K-Shortest Paths & BFS `Java · Spring Boot · DSA`
+- 🌐 **[Multilingual-AI-Translator](https://github.com/amangupta982/Multilingual-AI-Translator)** — Nepali & Sinhala ↔ English image/PDF translator with 35% faster inference `PyTorch · HuggingFace · OCR`
+- ⚖️ **[Generative-AI-Legal-Docs](https://github.com/amangupta982/Generative-AI-for-Legal-Docs)** — LLM + OCR clause extraction, risk highlighting & compliance checker `Python · Transformers · Flask`
+- 🔤 **[nlp-toolkit](https://github.com/amangupta982/nlp-toolkit)** — NLP fundamentals to projects: NER, POS tagging, text classification & more `Python · NLTK · spaCy`
 
 ---
 
@@ -65,7 +63,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta982&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta982&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
