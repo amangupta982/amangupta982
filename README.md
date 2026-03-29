@@ -27,27 +27,13 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class AmanGupta:
-    degree      = "B.Tech CSE (Data Science) — Jain University (2023–2027)"
-    sgpa        = 9.6
-    location    = "Bengaluru, India"
-
-    shipped = [
-        "Generative-AI for Legal Docs  →  LLM + OCR clause extraction & compliance",
-        "Multilingual AI Translator    →  Nepali & Sinhala ↔ English (image/PDF)",
-        "RD-Infro Internship Models    →  Fraud Detection, Sales Forecast & more",
-        "Quiz App + To-Do App          →  Android (Java, Android Studio)",
-    ]
-
-    building_now = [
-        "Sign Language Translator      →  CNN + MediaPipe | targeting 95% acc",
-        "AI Road Damage Detection      →  92% acc on KITTI | CNNs + OpenCV",
-    ]
-
-    ask_me_about = ["Python", "TensorFlow", "PyTorch", "OpenCV", "NLP", "Android"]
-    fun_fact     = "I build things that see, understand, and translate the world 🌍"
-```
+- 🎓 B.Tech CSE (Data Science) student at **Jain University, Bengaluru** — SGPA **9.6**
+- 🤖 Passionate about **Machine Learning, Computer Vision, and NLP**
+- 🚀 Love building **real-world AI systems** that solve actual problems
+- 🌱 Currently building a **Sign Language Translator** (CNN + MediaPipe) and **AI Road Damage Detector**
+- 🏆 Selected for **Smart India Hackathon 2025** Internal Round
+- 💬 Ask me about **Python, TensorFlow, PyTorch, OpenCV, NLP**
+- 📫 Reach me at **amanmacair98@gmail.com**
 
 ---
 
@@ -65,8 +51,6 @@ class AmanGupta:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amangupta982&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amangupta982&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/><br/>
@@ -77,11 +61,14 @@ class AmanGupta:
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Coding Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amangupta982&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+![snake gif](https://github.com/amangupta982/amangupta982/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
