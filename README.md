@@ -27,13 +27,23 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech CSE (Data Science) student at **Jain University, Bengaluru** — SGPA **9.6**
+- 🎓 B.Tech CSE (Data Science) at **Jain University, Bengaluru** — SGPA **9.6**
 - 🤖 Passionate about **Machine Learning, Computer Vision, and NLP**
 - 🚀 Love building **real-world AI systems** that solve actual problems
-- 🌱 Currently building a **Sign Language Translator** (CNN + MediaPipe) and **AI Road Damage Detector**
 - 🏆 Selected for **Smart India Hackathon 2025** Internal Round
-- 💬 Ask me about **Python, TensorFlow, PyTorch, OpenCV, NLP**
+- 💬 Ask me about **Python, TensorFlow, PyTorch, NLP, DSA**
 - 📫 Reach me at **amanmacair98@gmail.com**
+
+### 🔥 What I've Built
+
+| Project | Description | Stack |
+|---|---|---|
+| 🌿 [Eco-Commit-AI](https://github.com/amangupta982/Eco-Commit-AI) | AI carbon footprint tracker — log habits, get real-time CO₂ savings & sustainability insights | Python, Flask, ML |
+| 🧠 [Clinical-Summarizer-AI](https://github.com/amangupta982/Clinical-Summarizer-AI) | Multimodal clinical decision-support tool — synthesizes notes & vitals using NLP | Python, NLP, ML |
+| 🗺️ [smart-route-navigator](https://github.com/amangupta982/smart-route-navigator) | Adaptive city graph engine — Dijkstra, A*, Yen's K-Shortest Paths, BFS | Java, Spring Boot, DSA |
+| 🌐 [Multilingual-AI-Translator](https://github.com/amangupta982/Multilingual-AI-Translator) | Nepali & Sinhala ↔ English image/PDF translator with 35% faster inference | PyTorch, HuggingFace, OCR |
+| ⚖️ [Generative-AI-Legal-Docs](https://github.com/amangupta982/Generative-AI-for-Legal-Docs) | LLM + OCR clause extraction, risk highlighting & compliance checker | Python, Transformers, Flask |
+| 🔤 [nlp-toolkit](https://github.com/amangupta982/nlp-toolkit) | NLP fundamentals to projects: NER, POS tagging, text classification & more | Python, NLTK, spaCy |
 
 ---
 
@@ -64,9 +74,6 @@
 ## 📈 Coding Activity
 
 <div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ![snake gif](https://github.com/amangupta982/amangupta982/blob/output/github-contribution-grid-snake-dark.svg)
 
