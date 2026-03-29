@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Real-Time+ML+Systems+🚀;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Data+Science+%40+Jain+University+%7C+SGPA+9.6;Turning+Data+into+Decisions+⚡" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=Building+Real-Time+ML+Systems+%F0%9F%9A%80;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Data+Science+%40+Jain+University+%7C+SGPA+9.6;Turning+Data+into+Decisions+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,58 +29,35 @@
 
 ```python
 class AmanGupta:
-    degree    = "B.Tech CSE (Data Science) — Jain University (2023–2027)"
-    sgpa      = 9.6
-    location  = "Bengaluru, India"
-    interests = ["Machine Learning", "Computer Vision", "NLP", "Android Dev"]
-    currently = ["Sign Language Translator (95% acc)", "AI Road Detection System"]
-    ask_me    = ["Python", "TensorFlow", "PyTorch", "Data Science", "OpenCV"]
-    fun_fact  = "I build things that see, understand, and translate the world 🌍"
+    degree      = "B.Tech CSE (Data Science) — Jain University (2023–2027)"
+    sgpa        = 9.6
+    location    = "Bengaluru, India"
+
+    shipped = [
+        "Generative-AI for Legal Docs  →  LLM + OCR clause extraction & compliance",
+        "Multilingual AI Translator    →  Nepali & Sinhala ↔ English (image/PDF)",
+        "RD-Infro Internship Models    →  Fraud Detection, Sales Forecast & more",
+        "Quiz App + To-Do App          →  Android (Java, Android Studio)",
+    ]
+
+    building_now = [
+        "Sign Language Translator      →  CNN + MediaPipe | targeting 95% acc",
+        "AI Road Damage Detection      →  92% acc on KITTI | CNNs + OpenCV",
+    ]
+
+    ask_me_about = ["Python", "TensorFlow", "PyTorch", "OpenCV", "NLP", "Android"]
+    fun_fact     = "I build things that see, understand, and translate the world 🌍"
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch,sklearn,opencv,flask,mysql,mongodb,sqlite,git,github,androidstudio,gcp&perline=8" />
 
-**AI / ML / Data**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white)
-
-**Data & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Big Data & Cloud**
-
-![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+</div>
 
 ---
 
@@ -88,21 +65,24 @@ class AmanGupta:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amangupta982&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false" height="160"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=amangupta982&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amangupta982&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=amangupta982&theme=tokyonight&hide_border=true" height="165"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta982&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta982&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta982&theme=tokyo-night&hide_border=true&area=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=amangupta982&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
 </div>
 
 ---
