@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=Building+Real-Time+ML+Systems+%F0%9F%9A%80;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Data+Science+%40+Jain+University+%7C+SGPA+9.6;Turning+Data+into+Decisions+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=Building+Real-Time+ML+Systems+%F0%9F%9A%80;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Data+Science+%40+Jain+University+%7C+SGPA+9.5;Turning+Data+into+Decisions+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
