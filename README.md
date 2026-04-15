@@ -31,7 +31,7 @@
 - 🤖 Passionate about **Machine Learning, Computer Vision, and NLP**
 - 🚀 Love building **real-world AI systems** that solve actual problems
 - 🏆 Selected for **Smart India Hackathon 2025** Internal Round
-- 💬 Ask me about **Java, Python, DSA, TensorFlow, Scikit-learn, NLP**
+- 💬 Ask me about **Java, Python, DSA, TensorFlow, Scikit-learn, NLP , Machine-Learning**
 - 📫 Reach me at **amanmacair98@gmail.com**
 
 ---
