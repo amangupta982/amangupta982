@@ -28,7 +28,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech CSE (Data Science) at **Jain University, Bengaluru** — SGPA **9.5**
-- 🤖 Passionate about **Machine Learning, Computer Vision, and NLP**
+- 🤖 Passionate about **Machine Learning, Deep Learning, and NLP**
 - 🚀 Love building **real-world AI systems** that solve actual problems
 - 🏆 Selected for **Smart India Hackathon 2025** Internal Round
 - 💬 Ask me about **Java, Python, DSA, TensorFlow, Scikit-learn,Flask, NLP ,Machine-Learning ,Deep Learning ,MySQL**
