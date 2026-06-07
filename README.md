@@ -29,7 +29,7 @@
 
 - 🎓 B.Tech CSE (Data Science) at **Jain University, Bengaluru** — SGPA **9.4**
 - 🤖 Passionate about **Software Develpment, Machine Learning, Deep Learning, and NLP**
-- 🚀 Love building **real-world AI systems** that solve actual problems
+- 🚀 Love building **real-world AI systems** that solve actual problems 
 - 🏆 Selected for **Smart India Hackathon 2025** Internal Round
 - 💬 Ask me about **Java, DSA, TensorFlow, Scikit-learn,Flask, NLP ,Machine-Learning ,Deep Learning ,MySQL, MongoDB**
 - 📫 Reach me at **amanmacair98@gmail.com**
