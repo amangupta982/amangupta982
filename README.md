@@ -26,8 +26,9 @@
 ---
 
 ## 🧑‍💻 About Me
-
 - 🎓 B.Tech CSE (Data Science) at **Jain University, Bengaluru** — SGPA **9.4**
+- 🏆 Google Crowdsource Influencer — earned Influencer badge for contributing to Google's AI/ML datasets <img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/f097d10c-271b-466d-a548-71a864b12fe4" />
+
 - 🤖 Passionate about **Software Develpment, Machine Learning, Deep Learning, and NLP**
 - 🚀 Love building **real-world AI systems** that solve actual problems 
 - 🏆 Selected for **Smart India Hackathon 2025** Internal Round
