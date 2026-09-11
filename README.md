@@ -30,7 +30,7 @@
 - 🏆 Google Crowdsource Influencer — earned Influencer badge for contributing to Google's AI/ML datasets.
 - 🤖 Passionate about **Software Develpment, Machine Learning, Deep Learning, and NLP**.
 - 🚀 Love building **real-world AI/ML systems** that solve actual problems.
-- 🏆 Selected for **Smart India Hackathon 2025** Internal Round
+- 🏆 Selected for **Smart India Hackathon 2025** Internal Round.
 - 💬 Ask me about **Java, Python, DSA, TensorFlow, Scikit-learn,Flask, NLP , Advanced Machine-Learning ,Deep Learning ,MySQL, MongoDB**
 - 📫 Reach me at **amanmacair98@gmail.com**
 
